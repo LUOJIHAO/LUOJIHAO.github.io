@@ -5,7 +5,7 @@ date:
 modified:
 excerpt: ""
 tags: []
-image: infovishomework.png
+image: article1.jpg
 ---
 
 <br/>信息可视化作品
