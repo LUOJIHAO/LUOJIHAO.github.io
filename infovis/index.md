@@ -7,7 +7,7 @@ excerpt: ""
 tags: []
 image: article1.jpg
 ---
-
+<img src="https://luojihao.github.io/images/infovishomework.png" alt="teaser" itemprop="image">
 <br/>信息可视化作品
 <div class="tiles">
 {% for post in site.categories.infovis %}
